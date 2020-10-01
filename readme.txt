@@ -1,2 +1,2 @@
-A little bit of text
-Another line
+A little bit of text.
+Another line.
